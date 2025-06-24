@@ -34,4 +34,3 @@
 ## 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-ramos-kern)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/joaoramoskern)
